@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "874545099818",
+    "project_id": "morquio-2022-be0d3",
+    "storage_bucket": "morquio-2022-be0d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874545099818:android:a1ce6017fcf1c57ce93f53",
+        "android_client_info": {
+          "package_name": "com.example.morquio_2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874545099818-7dcbegi6mjc2poqsq2m8hvpckg3uqjl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuFDWc5Qrw3yqEpgUZg1ckDknT2KpGTEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874545099818-7dcbegi6mjc2poqsq2m8hvpckg3uqjl4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "874545099818-gj9j17ofrufau1fb96bd5s5190kv4do0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.morquio2022"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

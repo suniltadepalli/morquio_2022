@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>874545099818-gj9j17ofrufau1fb96bd5s5190kv4do0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.874545099818-gj9j17ofrufau1fb96bd5s5190kv4do0</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>874545099818-71809dk2t6dii08lo5e13uencav6e3ul.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBTMG7L9LXja_E-Y3nGSXYdVeFLGGS64Fw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>874545099818</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.morquio2022</string>
+	<key>PROJECT_ID</key>
+	<string>morquio-2022-be0d3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>morquio-2022-be0d3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:874545099818:ios:d605beccb93d73c1e93f53</string>
+</dict>
+</plist>
